@@ -1,5 +1,8 @@
 # Java2D Geometry Dash Clone
 
+## Javadoc available
+- **To check the Javadoc, locally open the index.html file located at docs/index.html**
+
 ## Description
 Ce projet est un clone 2D de **Geometry Dash** développé en Java en utilisant la bibliothèque **Swing**. En plus du gameplay classique, le jeu inclut un **créateur de cartes** pour permettre aux joueurs de concevoir leurs propres niveaux. Ce projet a été réalisé dans le cadre de la piscine Java, visant à approfondir la maîtrise de la programmation orientée objet (POO).
 
